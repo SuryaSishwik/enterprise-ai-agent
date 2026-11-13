@@ -1,0 +1,26 @@
+# IT SUPPORT, SYSTEM ACCESS & SECURITY POLICY (2026)
+Organization: Enterprise Global Solutions Inc.
+Document ID: POL-IT-2026-009
+Effective Date: January 1, 2026
+Applicability: All Company Personnel and Contractors
+
+1. PURPOSE & INCIDENT MANAGEMENT
+This policy governs IT asset usage, authentication security, incident reporting, and technical support ticketing workflows.
+
+2. SUPPORT TICKET CREATION & CATEGORIES
+When an employee encounters an issue (such as account lockout, email delivery failure, VPN disconnect, or hardware failure), they may raise a ticket directly through the Enterprise AI Assistant or IT Service Desk portal.
+
+Ticket Priority Levels & Response SLAs:
+- Priority 1 (Critical): Total company outage or severe security breach. Response within 1 hour; resolution target within 4 hours.
+- Priority 2 (High): Critical system failure affecting an entire department or complete inability for an employee to access primary systems (e.g. account lockout). Response within 2 hours; resolution target within 8 hours.
+- Priority 3 (Medium): Software error, permission request, or non-blocking defect. Response within 8 hours; resolution target within 24 hours.
+- Priority 4 (Low): General inquiry, hardware upgrade inquiry, or documentation feedback. Response within 24 hours; resolution target within 48 hours.
+
+3. ACCOUNT ACCESS & CREDENTIAL PROTOCOLS
+- Employees experiencing account lockouts or password reset issues must have a ticket created under category "Account Access".
+- Multi-factor authentication (MFA) resets require identity verification by IT Operations before credentials can be re-provisioned.
+- Never share passwords or session tokens across email, Slack, or unencrypted channels.
+
+4. COMPANY HARDWARE & DATA PROTECTION
+- All enterprise laptops must utilize full-disk BitLocker/FileVault encryption.
+- Confidential and restricted company data must remain within authorized cloud storage repositories and must not be exported to external USB drives without Information Security Officer written consent.
